@@ -1,0 +1,3 @@
+Face Detection using HAAR Cascade Classifiers:
+
+I used HAAR Cascade Classifier to detect the face from a given photograph easily using OpenCV library.
